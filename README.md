@@ -37,7 +37,7 @@ This lightweight Node.js (Next.js) API endpoint fetches and returns the definiti
 3. **Access the API:**
    - Visit: `http://localhost:3000/?word=example`
    - You’ll receive a response like:
-   ```json
+```json
 {
   "word": "example",
   "phonetics": [
