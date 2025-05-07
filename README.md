@@ -84,7 +84,7 @@ This lightweight Node.js (Next.js) API endpoint fetches and returns the definiti
 }
 ```
 
-##⚠️ Error Handling
+## ⚠️ Error Handling
 
 - If the word is not found or the external API is unavailable, the API may return an error response.
 - You can add a `try-catch` block to enhance error handling in production:
@@ -101,6 +101,6 @@ export default async function handler(req, res) {
 }
 ```
 
-##📝 License
+## 📝 License
 
 This project is licensed under the MIT License – see the [LICENSE](https://github.com/NotFlexCoder/dictionary-api/blob/main/LICENSE) file for details.
