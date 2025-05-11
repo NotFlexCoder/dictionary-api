@@ -101,6 +101,12 @@ export default async function handler(req, res) {
 }
 ```
 
+## 🛠️ Setup
+
+Watching Following Video You Can Host This Api & Gain Some Knowledge 👇
+
+[![Watch the video](https://img.youtube.com/vi/P1eDLzq4qu0/hqdefault.jpg)](https://youtu.be/P1eDLzq4qu0)
+
 ## 📝 License
 
 This project is licensed under the MIT License – see the [LICENSE](https://github.com/NotFlexCoder/dictionary-api/blob/main/LICENSE) file for details.
